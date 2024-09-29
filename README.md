@@ -16,12 +16,12 @@ As is touched on above, the purpose of the project was to give Drew Dickens a fu
 ### Data Cleaning
 ---
 
-TODO
+The data cleaning was a massive part of the process in creating this project. We went through multiple different datasets and many different iterations of each one in order before landing on the dataset that was used to train the posted model. Most of the time data cleaning went into configureing the data to be presented in a converstational format, so that it may effectivley contribute to the conversational aspect of the chatbot.
 
 ### Model Training
 ---
 
-The model was trained using the... TODO
+The model was trained using the pre-trained dialog-response model, DialoGPT, which was implemented using transformers and transfer learning. This was all trained on the university M2 supercomputer.
 
 ### Current State
 ---
